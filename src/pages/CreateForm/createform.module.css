@@ -1,0 +1,21 @@
+.container {
+    height: 100vh;
+    padding: 10px 20vw;
+    background: var(--smoke);
+}
+.formContainer{
+    position: relative;
+}
+.container div {
+    background: white;
+}
+.formDetails {
+    padding: 20px 30px;
+    border-radius: 5px;
+}
+.addButtonContainer {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    z-index: 10;
+}
